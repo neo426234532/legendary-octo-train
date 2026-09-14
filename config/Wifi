@@ -254,7 +254,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "💦 1. VLESS - Domain : 443",
+    "remarks": "WiFi Domain 💦",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
