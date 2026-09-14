@@ -145,7 +145,7 @@
       "statsOutboundUplink": true
     }
   },
-  "remarks": "💦 1. VLESS - Domain : 443",
+  "remarks": "CELL Domain 💦",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
