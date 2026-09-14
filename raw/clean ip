@@ -145,7 +145,7 @@
       "statsOutboundUplink": true
     }
   },
-  "remarks": "💦 4. VLESS - Clean IP : 443",
+  "remarks":CELL Clean IP 💦",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
