@@ -238,7 +238,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "CELL ARAS DOMAIN 💦",
+    "remarks": "CELL ARAS Domain 💦",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
