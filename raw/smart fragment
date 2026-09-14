@@ -1602,7 +1602,7 @@
       "statsOutboundUplink": true
     }
   },
-  "remarks": "💦 Smart Fragment 🧠",
+  "remarks": "CELL Smart Fragment 💦🧠",
   "routing": {
     "balancers": [
       {
