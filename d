@@ -229,11 +229,11 @@
             "allowInsecure": false,
             "cipherSuites": "TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256",
             "fingerprint": "unsafe",
-            "serverName": "wt6aw-88HBP46fsR4s31rpp.PaGEs.dEV"
+            "serverName": "wt6aW-88Hbp46fsr4s31RPp.PAGEs.dev"
           },
           "wsSettings": {
             "host": "wt6aw-88hbp46fsr4s31rpp.pages.dev",
-            "path": "/vl/8PAY6WdiJ1rcdVv9SAA?ed=2560"
+            "path": "/vl/aJG7kt0aZI1a1wirXbGmGl?ed=2560"
           }
         },
         "tag": "proxy"
