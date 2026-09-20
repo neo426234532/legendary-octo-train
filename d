@@ -181,10 +181,11 @@
           "concurrency": -1,
           "enabled": false
         },
-        "protocol": "trojan",
+        "protocol": "vless",
         "settings": {
           "address": "hq0cid-3mni31ows8v2m6.pages.dev",
-          "password": "pKA+vAmDgaCYM4AuaI",
+          "encryption": "none",
+          "id": "2f3699cf-e5fb-42fb-bb03-a77b8598cffd",
           "level": 8,
           "port": 443
         },
@@ -232,7 +233,7 @@
           },
           "wsSettings": {
             "host": "hq0cid-3mni31ows8v2m6.pages.dev",
-            "path": "/tr/8mWnJODQYtAIGvh56exNzJRl3xVNC4?ed=2560"
+            "path": "/vl/LCDNjYdn9kKaUIOMeFUaKTNXEMbPQLl?ed=2560"
           }
         },
         "tag": "proxy"
@@ -253,7 +254,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "💦 1. Trojan - Domain : 443",
+    "remarks": "💦 1. VLESS - Domain : 443",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
