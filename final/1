@@ -85,17 +85,6 @@
       "servers": [
         "https://cloudflare-dns.com/dns-query",
         {
-          "address": "223.5.5.5",
-          "domains": [
-            "geosite:cn"
-          ],
-          "expectIPs": [
-            "geoip:cn"
-          ],
-          "skipFallback": true,
-          "tag": "domestic-dns_cn_expect_0"
-        },
-        {
           "address": "https://cloudflare-dns.com/dns-query",
           "domains": [
             "geosite:google"
@@ -120,14 +109,6 @@
           ],
           "skipFallback": true,
           "tag": "domestic-dns_2_0"
-        },
-        {
-          "address": "223.5.5.5",
-          "domains": [
-            "geosite:cn"
-          ],
-          "skipFallback": true,
-          "tag": "domestic-dns_3_0"
         }
       ],
       "tag": "dns-module"
@@ -229,11 +210,11 @@
             "allowInsecure": false,
             "cipherSuites": "TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256",
             "fingerprint": "unsafe",
-            "serverName": "wt6aW-88hbP46FsR4s31rpp.PAGES.DeV"
+            "serverName": "harry98598756.cc.cd"
           },
           "wsSettings": {
-            "host": "wt6aw-88hbp46fsr4s31rpp.pages.dev",
-            "path": "/vl/4gXcj9mbGRiRBUpehdEGPnOLEnFXP?ed=2560"
+            "host": "harry98598756.cc.cd",
+            "path": "/vl/5DeMhvcaWpjf335wqgNjgC3?ed=2560"
           }
         },
         "tag": "proxy"
@@ -254,7 +235,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "💦 4. VLESS - Clean IP : 443",
+    "remarks": "💦 🇩🇪 harry98598756.cc.cd",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -280,47 +261,6 @@
           "type": "field"
         },
         {
-          "ip": [
-            "223.5.5.5",
-            "223.6.6.6",
-            "2400:3200::1",
-            "2400:3200:baba::1",
-            "119.29.29.29",
-            "1.12.12.12",
-            "120.53.53.53",
-            "2402:4e00::",
-            "2402:4e00:1::",
-            "180.76.76.76",
-            "2400:da00::6666",
-            "114.114.114.114",
-            "114.114.115.115",
-            "114.114.114.119",
-            "114.114.115.119",
-            "114.114.114.110",
-            "114.114.115.110",
-            "180.184.1.1",
-            "180.184.2.2",
-            "101.226.4.6",
-            "218.30.118.6",
-            "123.125.81.6",
-            "140.207.198.6",
-            "1.2.4.8",
-            "210.2.4.8",
-            "52.80.66.66",
-            "117.50.22.22",
-            "2400:7fc0:849e:200::4",
-            "2404:c2c0:85d8:901::4",
-            "117.50.10.10",
-            "52.80.52.52",
-            "2400:7fc0:849e:200::8",
-            "2404:c2c0:85d8:901::8",
-            "117.50.60.30",
-            "52.80.60.30"
-          ],
-          "outboundTag": "direct",
-          "type": "field"
-        },
-        {
           "domain": [
             "domain:alidns.com",
             "domain:doh.pub",
@@ -332,25 +272,9 @@
           "type": "field"
         },
         {
-          "ip": [
-            "geoip:cn"
-          ],
-          "outboundTag": "direct",
-          "type": "field"
-        },
-        {
-          "domain": [
-            "geosite:cn"
-          ],
-          "outboundTag": "direct",
-          "type": "field"
-        },
-        {
           "inboundTag": [
             "domestic-dns_1_0",
-            "domestic-dns_2_0",
-            "domestic-dns_3_0",
-            "domestic-dns_cn_expect_0"
+            "domestic-dns_2_0"
           ],
           "outboundTag": "direct",
           "type": "field"
