@@ -183,7 +183,7 @@
         },
         "protocol": "vless",
         "settings": {
-          "address": "wt6aw-88hbp46fsr4s31rpp.pages.dev",
+          "address": "harry98598756.cc.cd",
           "encryption": "none",
           "id": "de5f0f04-f2c8-4e0a-8033-ffe9c124fefa",
           "level": 8,
@@ -229,11 +229,11 @@
             "allowInsecure": false,
             "cipherSuites": "TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256",
             "fingerprint": "unsafe",
-            "serverName": "wt6Aw-88HbP46fSR4S31rpp.paGEs.deV"
+            "serverName": "WT6aw-88hBp46FSr4S31rpp.PageS.DeV"
           },
           "wsSettings": {
             "host": "wt6aw-88hbp46fsr4s31rpp.pages.dev",
-            "path": "/vl/9EyMsFnv3JtB9mDO5LHL8yrUiZosYZ6?ed=2560"
+            "path": "/vl/CVb1w0QCL8D6VAh2T9?ed=2560"
           }
         },
         "tag": "proxy"
