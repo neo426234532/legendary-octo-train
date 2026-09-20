@@ -183,9 +183,9 @@
         },
         "protocol": "vless",
         "settings": {
-          "address": "hq0cid-3mni31ows8v2m6.pages.dev",
+          "address": "wt6aw-88hbp46fsr4s31rpp.pages.dev",
           "encryption": "none",
-          "id": "2f3699cf-e5fb-42fb-bb03-a77b8598cffd",
+          "id": "de5f0f04-f2c8-4e0a-8033-ffe9c124fefa",
           "level": 8,
           "port": 443
         },
@@ -229,11 +229,11 @@
             "allowInsecure": false,
             "cipherSuites": "TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256",
             "fingerprint": "unsafe",
-            "serverName": "hQ0cId-3MnI31Ows8v2M6.PaGES.dEv"
+            "serverName": "wt6Aw-88HbP46fSR4S31rpp.paGEs.deV"
           },
           "wsSettings": {
-            "host": "hq0cid-3mni31ows8v2m6.pages.dev",
-            "path": "/vl/Fx6bhvXMlw5y5vK2LMTjxQ6rD5MX?ed=2560"
+            "host": "wt6aw-88hbp46fsr4s31rpp.pages.dev",
+            "path": "/vl/9EyMsFnv3JtB9mDO5LHL8yrUiZosYZ6?ed=2560"
           }
         },
         "tag": "proxy"
